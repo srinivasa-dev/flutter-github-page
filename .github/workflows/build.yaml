@@ -16,4 +16,4 @@ jobs:
       - uses: erickzanardo/flutter-gh-pages@v7
         with:
           customArgs: --dart-define MY_KEY=${{ secrets.MY_SECRETS }}
-          basehref: /github_page/
+          basehref: /flutter-github-page/
