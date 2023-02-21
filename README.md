@@ -1,16 +1,8 @@
-# build_host_github_pages
+# Flutter Web Build and Host GitHub Pages
 
 An example project to Build and Host Flutter Web on to GitHub Pages and using a secret key.
 
-## Getting Started
+### Blog on understanding this project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Build and Host Flutter Web to GitHub Page and using a secret key 🔑 (Part-1)](https://the-cybernaut.medium.com/build-and-host-flutter-web-to-github-page-and-using-a-secret-key-️-part-1-f1dbc864d3b5)
+- [Build and Host Flutter Web to GitHub Page and using a secret key 🔑 (Part-2)](https://medium.com/@the-cybernaut/build-and-host-flutter-web-to-github-page-and-using-a-secret-key-️-part-2-327998ce3e5e)
