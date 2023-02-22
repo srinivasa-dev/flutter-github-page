@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An example project to Build and Host Flutter Web on to GitHub Pages and using a secret key",
+    "description": "An example project to Build and Host Flutter Web on to GitHub Pages and use of secret keys.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
